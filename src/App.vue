@@ -19,12 +19,12 @@ export default {
 
       },{
         id:1,
-        title:'Todo one',
+        title:'Todo two',
         completed:true
         },
         {
         id:1,
-        title:'Todo one',
+        title:'Todo three',
         completed:false
         }]
     }
